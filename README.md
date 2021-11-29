@@ -1,4 +1,9 @@
-### Olá! Eu sou o Marco 👋 
+### Hey ! I am Marcoo 👋 
+
+.I live in sao paulo Brazil
+.Student
+.I'm learning Python
+
  
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-aur%C3%A9lio-parra-claro-523362226/)
  
