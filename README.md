@@ -18,7 +18,6 @@
 
  
 
-  ##
- ![Snake animation](https://github.com/MarcooMp/MarcoooMp/blob/output/github-contribution-grid-snake.svg)
+ 
  
  
