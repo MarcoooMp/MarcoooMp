@@ -44,11 +44,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/MarcoooMp/MarcoooMp/output/snake.svg" alt="Snake animation" />
-
-###
-
- 
- 
- 
