@@ -39,10 +39,13 @@
   <a href="https://medium.com/@mpclaro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
+
+  <a>
+  ![wp11983781-p![Line_Art](https://github.com/MarcoooMp/MarcoooMp/assets/89026104/17fc34c3-da51-43b8-89e4-e550e9b88183)   
+  </a>
 </div>
 
 ###
-
-![wp11983781-pixel-pfp-wallpapers](https://github.com/MarcoooMp/MarcoooMp/assets/89026104/4d836386-5a7f-4bd5-ab45-00f2e0bd54a2)
+ixel-pfp-wallpapers](https://github.com/MarcoooMp/MarcoooMp/assets/89026104/4d836386-5a7f-4bd5-ab45-00f2e0bd54a2)
 
 <br clear="both">
