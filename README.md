@@ -44,8 +44,5 @@
 </div>
 
 ###
- <a>
-   <img src=(https://github.com/MarcoooMp/MarcoooMp/assets/89026104/17fc34c3-da51-43b8-89e4-e550e9b88183)/> 
-  </a>
-
+ <img src=(https://github.com/MarcoooMp/MarcoooMp/assets/89026104/17fc34c3-da51-43b8-89e4-e550e9b88183)/> 
 <br clear="both">
