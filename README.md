@@ -41,7 +41,7 @@
   </a>
 
   <a>
-  ![wp11983781-p![Line_Art](https://github.com/MarcoooMp/MarcoooMp/assets/89026104/17fc34c3-da51-43b8-89e4-e550e9b88183)   
+   <img src=(https://github.com/MarcoooMp/MarcoooMp/assets/89026104/17fc34c3-da51-43b8-89e4-e550e9b88183)  /> 
   </a>
 </div>
 
