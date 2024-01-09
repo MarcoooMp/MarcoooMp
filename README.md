@@ -7,9 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoooMp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-  <img align="right" src= ![download](https://github.com/MarcoooMp/MarcoooMp/assets/89026104/da95a7c4-d0a2-490b-b5b2-9aad6e59c7ce) />
-###
+  <img align="right" src= "(https://github.com/MarcoooMp/MarcoooMp/assets/89026104/da95a7c4-d0a2-490b-b5b2-9aad6e59c7ce)" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
